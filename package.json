@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cor": "^0.0.0",
+    "express": "^4.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
